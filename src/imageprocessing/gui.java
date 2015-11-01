@@ -158,7 +158,7 @@ public class gui {
 		frame.getContentPane().add(bacteria);
 		
 		//Creates the plates button
-		JButton plates = new JButton("Lisence plate");
+		JButton plates = new JButton("License plate");
 		plates.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				image = new ConnectedComponentImage("C:/Users/David/workspace/ConnectorStarter/images/carplate.jpg");
