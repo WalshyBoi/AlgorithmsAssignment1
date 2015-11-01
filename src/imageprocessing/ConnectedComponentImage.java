@@ -9,7 +9,7 @@ import java.util.Random;
 
 
 /*************************************************************************
- * Compilation: javac ConnectedComponentImage.java
+ * Compilation: java ConnectedComponentImage.java
  * 
  * The <tt>ConnectedComponentImage</tt> class
  * <p>
@@ -63,9 +63,6 @@ public class ConnectedComponentImage {
 			ConnectedComponentImage app = new ConnectedComponentImage("C:/Users/David/workspace/ConnectorStarter/images/bacteria.bmp");
 		}
 	
-
-
-
 
 
 	/**
