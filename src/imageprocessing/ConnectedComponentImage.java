@@ -49,7 +49,7 @@ public class ConnectedComponentImage {
 
 		weightedQuickFind(N);
 		WeightedQU();
-
+		
 
 	/**
 	 * The main method which makes an new instance of the Connected
@@ -63,8 +63,14 @@ public class ConnectedComponentImage {
 			ConnectedComponentImage app = new ConnectedComponentImage("C:/Users/David/workspace/ConnectorStarter/images/bacteria.bmp");
 		}
 	
-
-
+	
+		
+	public void setFileLocation(String fileLocation){
+		this.fileLocation = fileLocation;
+	}
+	
+	
+	
 	/**
 	 * Returns the number of components identified in the image.
 	 * 
