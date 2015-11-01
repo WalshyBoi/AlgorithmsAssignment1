@@ -65,9 +65,7 @@ public class ConnectedComponentImage {
 	
 	
 		
-	public void setFileLocation(String fileLocation){
-		this.fileLocation = fileLocation;
-	}
+	
 	
 	
 	
